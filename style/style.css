@@ -6,7 +6,8 @@ html {
 }
 
 body {
-    background-color: #ACACAC;
+    /* background-color: #ACACAC; */
+    background-color: cyan;
 }
 
 .wrapper {
